@@ -1,2 +1,2 @@
 # dailyLearnings
-This is for saving the daily learnings in technology.
+This space is for adding new learnings on daily basis.
