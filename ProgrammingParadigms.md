@@ -31,3 +31,9 @@ https://www.guru99.com/functional-programming-tutorial.html
 ## Function as a First-Class Citizen:-
 
 A programming language is said to have first-class functions if it treats functions as first-class citizens. This means the language supports passing functions as arguments to other functions, returning them as the values from other functions, and assigning them to variables or storing them in data structures.
+
+## Higher-Order Function
+
+A higher-order function is a function that does at least one of the following:\
+- takes one or more functions as arguments or\ 
+- returns a function as its result.
