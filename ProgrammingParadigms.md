@@ -34,6 +34,6 @@ A programming language is said to have first-class functions if it treats functi
 
 ## Higher-Order Function
 
-A higher-order function is a function that does at least one of the following:\
-- takes one or more functions as arguments or\ 
+A higher-order function is a function that does at least one of the following:
+- takes one or more functions as arguments or
 - returns a function as its result.
