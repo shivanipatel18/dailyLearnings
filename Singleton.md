@@ -41,7 +41,7 @@ public class SingletonDemo {
 
 #### Pros of Singleton
 
-###### Instance control:
+##### Instance control:
 Singleton prevents other objects from instantiating their own copies of the Singleton object, ensuring that all objects access the single instance.
 
 ##### Flexibility: 
