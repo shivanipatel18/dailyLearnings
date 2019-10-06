@@ -60,8 +60,8 @@ Concurrent marking: In this marking, the reference from the root set are followe
 It uses all available CPU in the system for performing the garbage collection as fast as possible. It is also called the parallel garbage collector. Threads do not execute when the parallel garbage collection executes.
 
 - Pros of Mark and Sweep
-1. It is a recurring process.\
-2. It is an infinite loop.\
+1. It is a recurring process.
+2. It is an infinite loop.
 3. No additional overheads allowed during the execution of an algorithm.
 
 - Cons of Mark and Sweep
